@@ -74,7 +74,7 @@ export const content = {
       image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=800&auto=format&fit=crop"
     }
   ],
-  experience: [],
+  experience: [] as any[],
   achievements: [
     {
       title: "1st Place - National Hackathon",
