@@ -38,40 +38,13 @@ export const content = {
   },
   projects: [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce platform with AI product recommendations.",
-      technologies: ["Next.js", "Tailwind", "MongoDB", "Stripe"],
-      features: ["User Auth", "Shopping Cart", "Payment Gateway", "AI Recs"],
-      github: "https://github.com",
-      live: "https://example.com",
-      image: "https://images.unsplash.com/photo-1557821552-b718be9a5bb0?q=80&w=800&auto=format&fit=crop"
-    },
-    {
-      title: "AI Chatbot Interface",
-      description: "A modern interface for interacting with various LLM models.",
-      technologies: ["React", "Framer Motion", "OpenAI API"],
-      features: ["Streaming Responses", "Markdown Support", "Chat History"],
-      github: "https://github.com",
-      live: "https://example.com",
-      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop"
-    },
-    {
-      title: "Task Management Dashboard",
-      description: "A highly interactive dashboard for managing team projects.",
-      technologies: ["Next.js", "TypeScript", "Tailwind"],
-      features: ["Drag & Drop", "Real-time Sync", "Analytics"],
-      github: "https://github.com",
-      live: "https://example.com",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?q=80&w=800&auto=format&fit=crop"
-    },
-    {
-      title: "Portfolio Website",
-      description: "A premium animated portfolio showcasing my work and skills.",
-      technologies: ["Next.js", "Framer Motion", "Three.js"],
-      features: ["3D Animations", "Responsive Design", "Dark Mode"],
-      github: "https://github.com",
-      live: "https://example.com",
-      image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=800&auto=format&fit=crop"
+      title: "Disaster Management System",
+      description: "An application focused on efficient disaster management and emergency response strategies.",
+      technologies: ["Web Development", "Backend Systems"],
+      features: ["Disaster Response", "Resource Allocation", "Real-time Alerts"],
+      github: "https://github.com/Asad-uz-zaman-Rokon/Disaster_Management",
+      live: "",
+      image: "https://images.unsplash.com/photo-1547683905-f686c993b472?q=80&w=800&auto=format&fit=crop"
     }
   ],
   experience: [] as any[],
@@ -120,16 +93,16 @@ export const content = {
     }
   ],
   contact: {
-    email: "hello@johndoe.com",
+    email: "asaduzzamanrokon11@gmail.com",
     github: "https://github.com",
     linkedin: "https://linkedin.com",
     portfolio: "https://johndoe.com",
-    location: "San Francisco, CA"
+    location: "Dhaka"
   },
   social: [
     { name: "GitHub", icon: FaGithub, url: "https://github.com" },
     { name: "LinkedIn", icon: FaLinkedin, url: "https://linkedin.com" },
     { name: "Twitter", icon: FaTwitter, url: "https://twitter.com" },
-    { name: "Email", icon: FaEnvelope, url: "mailto:hello@johndoe.com" }
+    { name: "Email", icon: FaEnvelope, url: "mailto:asaduzzamanrokon11@gmail.com" }
   ]
 };
